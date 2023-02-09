@@ -3,7 +3,7 @@ import HeroBanner from './heroBanner/HeroBanner'
 import './hstyle.scss'
 import Trending from './trending/Trending'
 import Popular from './popular/Popular'
-import TopRated from './topRated/TopRated'
+import TopRated from './topRated/TopRateds'
 import Upcoming from './upcoming/Upcoming'
 import NowPlaying from './nowPlaying/NowPlaying'
 
